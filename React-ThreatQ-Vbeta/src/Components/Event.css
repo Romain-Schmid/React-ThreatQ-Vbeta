@@ -1,0 +1,31 @@
+.FormEvent{
+    width: 90%;
+    margin: 1% auto;
+    border: 2px solid white;
+    padding-top: 10px;
+}
+
+.container.text-center {
+    border: solid 2px;
+}
+
+.list-group-item {
+    margin-bottom: 8px;
+}
+
+.DefaultValue {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.DefaultCenter {
+    text-align: center;
+}
+
+.RowSpace {
+    margin-bottom: 3px;
+}
+
+.Label-left {
+    text-align: left;
+}

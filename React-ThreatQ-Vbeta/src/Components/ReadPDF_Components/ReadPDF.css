@@ -1,0 +1,27 @@
+.ViewPDF {
+    padding: 1%;
+    color: black;
+    resize: both;
+    border: 1px solid black;
+    overflow: auto;
+    float: left;
+    min-width: 499px;
+}
+
+.ViewIoc {
+    padding: 1%;
+    display: flow-root;
+}
+
+#combo-box-event {
+    color: #fff;
+}
+
+.first-input {
+    width: max-content; 
+    margin: auto;
+}
+
+.contextmenu {
+    color: black;
+}
